@@ -6,7 +6,7 @@ Project utilized simple Flask backend also developed for this purpose.
 
 ## Links
  * [home page](https://bbocal.mejty.cz)
- * [docs](https://bbocal.mejty.cz)
+ * [docs](https://bbocal.mejty.cz/doc/)
  * [source code](hhtps://bbocla.mejty.cz/src/bbocal.zip)
 
 ## Used technologies
