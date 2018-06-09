@@ -4,7 +4,7 @@
 
 Project utilized simple Flask backend also developed for this purpose.
 
-##Links
+## Links
  * [home page](https://bbocal.mejty.cz)
  * [docs](https://bbocal.mejty.cz)
  * [source code](hhtps://bbocla.mejty.cz/src/bbocal.zip)
