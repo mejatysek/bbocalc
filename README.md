@@ -7,7 +7,7 @@ Project utilized simple Flask backend also developed for this purpose.
 ## Links
  * [home page](https://bbocal.mejty.cz)
  * [docs](https://bbocal.mejty.cz/doc/)
- * [source code](hhtps://bbocal.mejty.cz/src/bbocal.zip)
+ * [source code](https://bbocal.mejty.cz/src/bbocal.zip)
 
 ## Used technologies
  * [Vue.js 2](https://vuejs.org/)
